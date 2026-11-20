@@ -1,0 +1,6 @@
+[submodule "mc-server-packs"]
+	path = mc-server-packs
+	url = https://git.tronnet.net/alu/mc-server-packs
+[submodule "mc-server-mods"]
+	path = mc-server-mods
+	url = https://git.tronnet.net/alu/mc-server-mods
