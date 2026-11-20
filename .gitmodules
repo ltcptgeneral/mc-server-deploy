@@ -1,6 +1,6 @@
 [submodule "mc-server-packs"]
 	path = mc-server-packs
 	url = https://git.tronnet.net/alu/mc-server-packs
-[submodule "mc-server-mods"]
-	path = mc-server-mods
-	url = https://git.tronnet.net/alu/mc-server-mods
+[submodule "modrinth-cli"]
+	path = modrinth-cli
+	url = https://github.com/ltcptgeneral/modrinth-cli
